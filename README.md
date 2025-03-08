@@ -3,3 +3,4 @@ This is the project to book the rental cars according to times without colliding
 - It is full developed in java 
 - [Repo link](https://github.com/sirisanhitha/car-rent.git) clone this repo
 - connect the database to mysql <br>
+- open the project in netbeans or vscode <br>
